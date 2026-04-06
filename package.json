@@ -5,8 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "ej02": "node ./node_modules/EJ02.js",
-    "ej03": "node ./node_modules/EJ03.js",
+    "ej02": "node ./EJ02.js",
+    "ej03": "node ./EJ03.js",
+    "ej04": "set NODE_TLS_REJECT_UNAUTHORIZED=0 && node EJ04.js",
+    "ej05": "node ./EJ05.js",
+    "ej06": "node ./EJ06.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
