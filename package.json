@@ -11,6 +11,8 @@
     "ej05": "node ./EJ05.js",
     "ej06": "node ./EJ06.js",
     "ej07": "node ./EJ07.js",
+    "ej08": "node ./EJ08.js",
+    "ej09": "node ./EJ09.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
